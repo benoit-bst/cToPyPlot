@@ -44,7 +44,8 @@ apt-get install cmake g++ python libqt4-test libboost-filesystem-dev matplotlib
 
 ```
 git clone https://github.com/benoit-bst/cToPyPlot
-``
+```
+
 ## Compilation
 
 ```
