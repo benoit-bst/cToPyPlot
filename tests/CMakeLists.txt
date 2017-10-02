@@ -3,7 +3,7 @@ if(ENABLE_TESTING)
   set(ENABLE_CTPP ON)
   CTPP_flag()
 
-  find_package(Qt4 4.6.3 COMPONENTS QtCore QtTest REQUIRED)
+  find_package(Qt4 4.8.7 COMPONENTS QtCore QtTest REQUIRED)
   include(${QT_USE_FILE})
 
   unset( MOC_SOURCES)

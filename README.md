@@ -30,14 +30,14 @@ Required tools and libraries
 * cmake >= 3.0.2
 * gcc >= 4.9.2
 * python >= 2.7
-* qt test >= 4.6
+* libqt4-dev >= 4.8.7
 * boost filesystem >= 1.49
 * matplotlib >= 1.49
 
 debian installation 
 
 ```
-apt-get install cmake g++ python libqt4-test libboost-filesystem-dev matplotlib
+apt-get install cmake g++ python libqt4-dev libboost-filesystem-dev python-matplotlib
 ```
 
 ## Source recovery
